@@ -1,7 +1,9 @@
 {
-    "name": "OuterMaze.SemperLand.Cache.Runtime",
+    "name": "OuterMaze.Unity.SemperLand.Cache.Samples",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:22c5a7f3502ab1bb99694532d03b38c1"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
