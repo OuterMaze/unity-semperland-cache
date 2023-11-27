@@ -1,0 +1,15 @@
+{
+  "name": "com.outermaze.unity.semperland.cache",
+  "version": "0.0.1",
+  "displayName": "Outer Maze - Unity - SemperLand - Cache",
+  "description": "The resource to access the semperland cache.",
+  "unity": "2023.1",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "2.0.0"
+  },
+  "author": {
+    "name": "Outer Maze",
+    "email": "info@outermaze.com",
+    "url": "http://www.outermaze.com"
+  }
+}
