@@ -1,6 +1,6 @@
 using Unity.Plastic.Newtonsoft.Json;
 
-namespace OuterMaze.SemperLand.Cache
+namespace OuterMaze.Unity.SemperLand.Cache
 {
     namespace Types
     {

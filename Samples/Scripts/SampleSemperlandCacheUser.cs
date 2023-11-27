@@ -1,14 +1,15 @@
 using System.Collections.Generic;
 using System.IO;
 using Newtonsoft.Json;
-using OuterMaze.SemperLand.Cache.Types;
 using UnityEngine;
 using Object = System.Object;
 
-namespace OuterMaze.SemperLand.Cache
+namespace OuterMaze.Unity.SemperLand.Cache
 {
     namespace Samples
     {
+        using Types;
+        
         public class SampleSemperlandCacheUser : MonoBehaviour
         {
             // Some accounts to have permissions at metaverse level.

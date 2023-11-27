@@ -1,7 +1,7 @@
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace OuterMaze.SemperLand.Cache
+namespace OuterMaze.Unity.SemperLand.Cache
 {
     namespace Types
     {

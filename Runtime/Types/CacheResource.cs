@@ -7,7 +7,7 @@ using Newtonsoft.Json;
 using UnityEngine;
 using UnityEngine.Networking;
 
-namespace OuterMaze.SemperLand.Cache
+namespace OuterMaze.Unity.SemperLand.Cache
 {
     namespace Types
     {
